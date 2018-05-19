@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1086859664041",
+    "firebase_url": "https://guin-b329d.firebaseio.com",
+    "project_id": "guin-b329d",
+    "storage_bucket": "guin-b329d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086859664041:android:131fe1ce9e6f3ae9",
+        "android_client_info": {
+          "package_name": "com.luizaquino.segureguin.secureguin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086859664041-dcg0lhvei254ggbrn609c1jpkpcs7k49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.luizaquino.segureguin.secureguin",
+            "certificate_hash": "2f0e091f9d86c6085e4c01486f419dadc04565d0"
+          }
+        },
+        {
+          "client_id": "1086859664041-beec1nq3vnlqvav7frpelga0jf8v45ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyGKtlDaFRzE5bHMQjvKXwu237FtGQ8gI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086859664041-beec1nq3vnlqvav7frpelga0jf8v45ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
